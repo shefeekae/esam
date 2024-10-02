@@ -1,0 +1,1 @@
+enum SiteType { insights, alarms }

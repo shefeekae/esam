@@ -1,0 +1,6 @@
+
+
+  enum SchedulerView{
+    listView,
+    calendarView,
+  }

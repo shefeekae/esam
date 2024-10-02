@@ -1,0 +1,6 @@
+
+
+enum AlarmScreenType{
+  console,
+  insights
+}

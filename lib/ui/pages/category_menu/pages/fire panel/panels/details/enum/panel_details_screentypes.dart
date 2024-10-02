@@ -1,0 +1,4 @@
+enum PanelDetailsScreenType {
+  activeAlarms,
+  allEquipments,
+}

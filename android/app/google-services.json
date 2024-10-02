@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728136484356",
+    "project_id": "nectar-assets-flutter",
+    "storage_bucket": "nectar-assets-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728136484356:android:ee580eaf2167e80d8b9751",
+        "android_client_info": {
+          "package_name": "com.nectarit.nectarassets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728136484356-e9v7smsf520lqjups3850v43nso106ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQv6CEoUr_N5O1i5lnBPDfqdQ3ak2pHJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728136484356-e9v7smsf520lqjups3850v43nso106ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728136484356-uv6b0lalncpr293bqsp54mb2u32es0du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectarit.nectar-assets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
